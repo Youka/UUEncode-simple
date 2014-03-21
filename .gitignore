@@ -1,0 +1,6 @@
+# Binaries
+main.o
+uuencode-simple
+
+# Test files
+*.txt
